@@ -22,7 +22,7 @@ This is my persinal blog created with <a href="https://github.com/MuYunyun/creat
 
 ### Data Structure
 
-This section we will start tralvel in the world of data strcture together! It's worth nothing the travel is so interestring that you'll enjoy it too!
+This section we will start travel in the world of data strcture together! It's worth nothing the travel is so interestring that you'll enjoy it too!
 
 > [Travel Of LeetCode](https://github.com/MuYunyun/blog/blob/master/LeetCode/README.md)
 
